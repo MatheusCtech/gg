@@ -1,0 +1,2 @@
+# gg
+meu primeiro repositorio
